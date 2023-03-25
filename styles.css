@@ -34,5 +34,7 @@ html ::-webkit-scrollbar-track{
 }
 
 html ::-webkit-scrollbar-thumb{
-  background: #222;
+  background: var(--yellow);
 }
+
+
