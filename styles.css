@@ -11,9 +11,13 @@
 
 }
 
+*::selection {
+  
+}
+
 :root {
   --yellow : #f9ca24;
-  
+
 }
 
 body {
