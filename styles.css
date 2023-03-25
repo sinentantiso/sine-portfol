@@ -29,6 +29,8 @@ html ::-webkit-scrollbar{
   width: 1.4rem;
 }
 
-html ::-webkit-scrollbar{
-  width: 1.4rem;
+html ::-webkit-scrollbar-track{
+  background: #222;
 }
+
+
