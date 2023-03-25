@@ -48,5 +48,6 @@ header {
   align-items: center;
   justify-content: center;
   flex-flow: column;
+  text-align: center;
   
 }
