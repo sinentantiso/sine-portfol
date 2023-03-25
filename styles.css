@@ -1,4 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@600&display=swap');
+:root {
+  --yellow : #f9ca24;
+}
+
 * {
   box-sizing: border-box;
   font-family: 'Nunito', sans-serif;
@@ -12,13 +16,10 @@
 }
 
 *::selection {
-  
+  background: var(--yellow);
 }
 
-:root {
-  --yellow : #f9ca24;
 
-}
 
 body {
   margin: 0;
