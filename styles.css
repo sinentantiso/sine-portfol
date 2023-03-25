@@ -37,4 +37,8 @@ html ::-webkit-scrollbar-thumb{
   background: var(--yellow);
 }
 
-
+header {
+  position: fixed;
+  top: 0; left: 0;
+  
+}
